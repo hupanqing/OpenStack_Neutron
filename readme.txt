@@ -5,3 +5,4 @@ Git tracks changes of files.
 test line
 it is a mistake
 test for checkout
+this is a line from branch "dev"
