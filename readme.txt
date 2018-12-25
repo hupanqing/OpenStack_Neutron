@@ -7,3 +7,4 @@ it is a mistake
 test for checkout
 this is a line from branch "dev"
 this a new line from branch dev
+this is anither line from branch dev
